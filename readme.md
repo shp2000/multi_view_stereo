@@ -1,8 +1,8 @@
-# HW5
+# Implementation two-view stereo and multi-view stereo algorithms to convert multiple 2D viewpoints into a 3D reconstruction of the scene
 
-**Please first install the requirements.txt!** Then you could start with the notebooks in vscode.
 
-## Hints
+
+
 
 Common Mistakes in function `compute_disparity_map`:
 
